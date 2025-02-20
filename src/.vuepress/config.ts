@@ -269,6 +269,12 @@ export default defineConfig4CustomTheme<any>({
         desc: '写代码是因为爱',
         avatar: 'https://s2.loli.net/2024/06/18/7asx58EjJ6lfwIL.jpg',
       },
+      {
+        name: '初阳',
+        url: 'https://www.chuyangv.cn/',
+        desc: '白马春山慢慢行',
+        avatar: 'https://blog.chuyangv.cn/imgs/common/def_avatar.png',
+      },
     ],
   },
 })
